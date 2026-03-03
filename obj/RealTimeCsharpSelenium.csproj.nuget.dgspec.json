@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ojas2\\source\\repos\\UditPrepCSharp\\RealTimeCsharpSelenium\\RealTimeCsharpSelenium.csproj": {}
+    "D:\\New folder (2)\\RealTimeCsharpSelenium.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ojas2\\source\\repos\\UditPrepCSharp\\RealTimeCsharpSelenium\\RealTimeCsharpSelenium.csproj": {
+    "D:\\New folder (2)\\RealTimeCsharpSelenium.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ojas2\\source\\repos\\UditPrepCSharp\\RealTimeCsharpSelenium\\RealTimeCsharpSelenium.csproj",
+        "projectUniqueName": "D:\\New folder (2)\\RealTimeCsharpSelenium.csproj",
         "projectName": "RealTimeCsharpSelenium",
-        "projectPath": "C:\\Users\\Ojas2\\source\\repos\\UditPrepCSharp\\RealTimeCsharpSelenium\\RealTimeCsharpSelenium.csproj",
-        "packagesPath": "C:\\Users\\Ojas2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ojas2\\source\\repos\\UditPrepCSharp\\RealTimeCsharpSelenium\\obj\\",
+        "projectPath": "D:\\New folder (2)\\RealTimeCsharpSelenium.csproj",
+        "packagesPath": "C:\\Users\\NeverSettle\\.nuget\\packages\\",
+        "outputPath": "D:\\New folder (2)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ojas2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NeverSettle\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,11 +68,11 @@
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.14.0, )"
+              "version": "[18.3.0, )"
             },
             "NUnit": {
               "target": "Package",
-              "version": "[4.3.2, )"
+              "version": "[4.5.0, )"
             },
             "NUnit.Analyzers": {
               "target": "Package",
@@ -80,7 +80,7 @@
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[6.1.0, )"
             },
             "Selenium.Firefox.WebDriver": {
               "target": "Package",
