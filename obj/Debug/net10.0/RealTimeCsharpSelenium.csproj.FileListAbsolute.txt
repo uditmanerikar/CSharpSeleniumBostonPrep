@@ -203,6 +203,7 @@ C:\Users\Ojas2\source\repos\UditPrepCSharp\RealTimeCsharpSelenium\obj\Debug\net1
 C:\Users\Ojas2\source\repos\UditPrepCSharp\RealTimeCsharpSelenium\obj\Debug\net10.0\RealTimeCsharpSelenium.AssemblyInfoInputs.cache
 C:\Users\Ojas2\source\repos\UditPrepCSharp\RealTimeCsharpSelenium\obj\Debug\net10.0\RealTimeCsharpSelenium.AssemblyInfo.cs
 C:\Users\Ojas2\source\repos\UditPrepCSharp\RealTimeCsharpSelenium\obj\Debug\net10.0\RealTimeCsharpSelenium.csproj.CoreCompileInputs.cache
+C:\Users\Ojas2\source\repos\UditPrepCSharp\RealTimeCsharpSelenium\obj\Debug\net10.0\RealTimeCsharpSelenium.sourcelink.json
 C:\Users\Ojas2\source\repos\UditPrepCSharp\RealTimeCsharpSelenium\obj\Debug\net10.0\RealTime.3C69D273.Up2Date
 C:\Users\Ojas2\source\repos\UditPrepCSharp\RealTimeCsharpSelenium\obj\Debug\net10.0\RealTimeCsharpSelenium.dll
 C:\Users\Ojas2\source\repos\UditPrepCSharp\RealTimeCsharpSelenium\obj\Debug\net10.0\refint\RealTimeCsharpSelenium.dll

@@ -20,7 +20,9 @@ namespace RealTimeCsharpSelenium.PageClass
         }
         private By  cards = By.XPath("//h4[@class=\"card-title\"]");
         private By AddCart = By.XPath(".//parent::div//following-sibling::div//button[@class=\"btn btn-info\"]");
-        private By Checkout = By.PartialLinkText("Checkout"); 
+        private By Checkout = By.PartialLinkText("Checkout");
+        private By cgs      = By.XPath("//a[text()='Category 3']");
+
 
         public void waitforpagedisplay()
         {
@@ -45,5 +47,12 @@ namespace RealTimeCsharpSelenium.PageClass
             driver.FindElement(Checkout).Click();
             return new Checkoutpage(driver);
         }
+        public catagories clickcatagories() {
+            wait.Until(ExpectedConditions.ElementIsVisible(cgs));
+        driver.FindElement(cgs).Click();
+            return new catagories(driver);
+
+        }
+
     }
 }
